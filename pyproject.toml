@@ -23,7 +23,7 @@ classifiers = [
 dependencies = [
   "appsignal"
 ]
-version = "0.2.0"
+version = "0.2.0a1"
 
 [project.urls]
 Documentation = "https://github.com/appsignal/appsignal-python#readme"

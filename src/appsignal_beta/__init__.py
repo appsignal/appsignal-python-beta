@@ -1,3 +1,5 @@
+import sys
+
 print(
     "The AppSignal for Python integration is now published as the "
     "`appsignal` package on PyPI. Update your project's dependencies "

@@ -11,6 +11,7 @@ Update the `pyproject.toml` file and update the version number.
 Run these two commands:
 
 ```
+rm -rf dist
 hatch build
 hatch publish
 ```
